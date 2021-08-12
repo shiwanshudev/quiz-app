@@ -1,0 +1,31 @@
+body {
+    background-color: #29a0b1 !important;
+  }
+  .success {
+    background-color: #21b6a8 !important;
+    color: #fff !important;
+  }
+  
+  .warning {
+    background-color: #fb6b90 !important;
+    color: #fff !important;
+  }
+  
+  h1,
+  footer {
+    color: #fff;
+  }
+
+.refreshButton{
+    background: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 0.7rem 1rem;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+.refreshButton:hover{
+    color: #21b6a8;
+    background-color: #fff;
+}
